@@ -1,5 +1,5 @@
 # MECKATHON
-
+Application mobile pour la sensibilisation au processus electoral de la population congolaise
 ## Captures
 
 | Screen 1  | Screen 2 | Screen 3 | Screen 4 |
